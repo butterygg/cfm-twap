@@ -71,4 +71,18 @@ In this folder, run
 python twap_calculator.py data/$TODAY/cumulative-prices.json data/$TODAY/csm-list.json data/$TODAY/raw-twaps.json
 ```
 
+Now you can observe results in the `raw-twaps.json` file, or just read stdout:
+
+```
+Top 5 pools by pTwap:
+---------------------
+Rank| Outcome Index|    pTwap   | Pool Address
+----|--------------|------------|------------------
+  1 |           15 | 0.59401587 | 0x9d16947a1924F735EC86CA4C11b3e28cE65b436e
+  2 |           17 | 0.48530209 | 0x23b04c96C0bb8c223d13C6962c4aCF954412E77B
+  3 |            1 | 0.47911263 | 0xED69FC5B54757cbeE0136C516a22E406AFd5Fa11
+  4 |            0 | 0.44333008 | 0x7A0986507e4836CF234d42d049682A1D8A57a1F6
+  5 |           12 | 0.41237347 | 0xCb6B543857DaBb2308Cc9DE4d09d5cbcEDed80c2
+```
+
 enjoy🥤
