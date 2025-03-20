@@ -1,4 +1,23 @@
-# howto compute TWAPs for Butter's CFMs
+# compute TWAPs for Butter's CFMs
+
+## rationale
+
+This calculation is directly based on Uniswap v2's cumulative prices and their [docs](https://docs.uniswap.org/contracts/v2/concepts/core-concepts/oracles)' recommended approach for computing TWAPs.
+
+Instead of relying on Solidity libraries that are harder to maintain and knowing we can afford to forego a bit of decimal precision, we take the following approach:
+
+1. fetch data from Uniswap v2 pairs, including reserves and cumulative prices
+2. compute locally the TWAPs, including the extrapolation routine
+3. finally, produce a `pTwap` value, which represents the value of Long (UP) tokens in terms of their collateral token.
+
+The final output `pTwap` is calculated based on the invariant `Long + Short = 1`, stemming from Long and Short tokens being complementary outcomes.  
+Given the computed `twap` of the Long/Short token ratio, we have:
+
+```
+pTwap = twap / (1 + twap)
+```
+
+The script outputs a list of all `pTwap` values, enabling Butter’s CFMs to apply their decision rule by comparing projects' Conditional Scalar Market forecasts.
 
 ## install
 
@@ -12,6 +31,8 @@ gh repo clone butterygg/twap
 ```
 
 ## howto
+
+### 1. fetch
 
 ```sh
 export TODAY=$(date +'%Y-%m-%d')
@@ -41,6 +62,8 @@ CSM_JSON=csm-list.json END_BLOCK=… START_BLOCK=… forge script script/FetchCu
 ```
 
 Copy the resulting file in this folder's `./data/$TODAY`.
+
+## 2 & 3. compute TWAP and calculate `pTwap`
 
 In this folder, run
 
