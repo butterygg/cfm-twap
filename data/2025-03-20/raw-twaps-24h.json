@@ -1,0 +1,184 @@
+{
+  "startBlock": 11637241,
+  "startBlockTime": 1742385600,
+  "endBlock": 11723641,
+  "endBlockTime": 1742472000,
+  "pairs": {
+    "0xDEF9757241A19A4872810E19d39B43Cdb7ffbf97": {
+      "price0Twap": 1.5865187971286454,
+      "price1Twap": 0.700728246364906,
+      "outcomeIndex": 16,
+      "priceShortTwap": 1.5865187971286454,
+      "priceLongTwap": 0.700728246364906,
+      "pTwap": 0.4120165863433062
+    },
+    "0x40709da84B9036C6C582a0827DFFd9943492d4F3": {
+      "price0Twap": 2.467770386795036,
+      "price1Twap": 0.4646136408429971,
+      "outcomeIndex": 8,
+      "priceShortTwap": 2.467770386795036,
+      "priceLongTwap": 0.4646136408429971,
+      "pTwap": 0.31722607784505985
+    },
+    "0xdA21a4a5A47347B4A7fc4bAdAe5789508AE5Aa0f": {
+      "price0Twap": 1.924160015943596,
+      "price1Twap": 0.6067995574070725,
+      "outcomeIndex": 18,
+      "priceShortTwap": 1.924160015943596,
+      "priceLongTwap": 0.6067995574070725,
+      "pTwap": 0.3776448372852916
+    },
+    "0x06C85d2a48baCA681f6F08a6e7016D365aA16b91": {
+      "price0Twap": 0.4509314163066543,
+      "price1Twap": 2.5255716711448475,
+      "outcomeIndex": 19,
+      "priceShortTwap": 2.5255716711448475,
+      "priceLongTwap": 0.4509314163066543,
+      "pTwap": 0.31078754739110975
+    },
+    "0x753E55b9e5F30A0874226b47372386D4067A96d4": {
+      "price0Twap": 1.6478262644516128,
+      "price1Twap": 0.6595463032229887,
+      "outcomeIndex": 3,
+      "priceShortTwap": 1.6478262644516128,
+      "priceLongTwap": 0.6595463032229887,
+      "pTwap": 0.39742567106569443
+    },
+    "0xED69FC5B54757cbeE0136C516a22E406AFd5Fa11": {
+      "price0Twap": 1.154058783114045,
+      "price1Twap": 0.9198008024334772,
+      "outcomeIndex": 1,
+      "priceShortTwap": 1.154058783114045,
+      "priceLongTwap": 0.9198008024334772,
+      "pTwap": 0.479112625261729
+    },
+    "0x5809976CA619e888201e1943747264A1c89D9C0C": {
+      "price0Twap": 0.2487773278329735,
+      "price1Twap": 4.680312040180267,
+      "outcomeIndex": 6,
+      "priceShortTwap": 4.680312040180267,
+      "priceLongTwap": 0.2487773278329735,
+      "pTwap": 0.19921672366095997
+    },
+    "0xCb6B543857DaBb2308Cc9DE4d09d5cbcEDed80c2": {
+      "price0Twap": 0.7017611439331793,
+      "price1Twap": 1.600345785832014,
+      "outcomeIndex": 12,
+      "priceShortTwap": 1.600345785832014,
+      "priceLongTwap": 0.7017611439331793,
+      "pTwap": 0.41237346758972326
+    },
+    "0x117195d07cEcB60ead8e06F8126F68B61599ca86": {
+      "price0Twap": 0.5143699573202495,
+      "price1Twap": 2.152806023595495,
+      "outcomeIndex": 20,
+      "priceShortTwap": 2.152806023595495,
+      "priceLongTwap": 0.5143699573202495,
+      "pTwap": 0.3396593777061266
+    },
+    "0x7A0986507e4836CF234d42d049682A1D8A57a1F6": {
+      "price0Twap": 1.3623065554175238,
+      "price1Twap": 0.7963966825073764,
+      "outcomeIndex": 0,
+      "priceShortTwap": 1.3623065554175238,
+      "priceLongTwap": 0.7963966825073764,
+      "pTwap": 0.44333007863039525
+    },
+    "0x0C947B005826D92DAf9Db000d08C5144Ec227004": {
+      "price0Twap": 0.4672553972605593,
+      "price1Twap": 2.2597893710278036,
+      "outcomeIndex": 9,
+      "priceShortTwap": 2.2597893710278036,
+      "priceLongTwap": 0.4672553972605593,
+      "pTwap": 0.3184553951090921
+    },
+    "0x23b04c96C0bb8c223d13C6962c4aCF954412E77B": {
+      "price0Twap": 0.9428872548913424,
+      "price1Twap": 1.1046613472035416,
+      "outcomeIndex": 17,
+      "priceShortTwap": 1.1046613472035416,
+      "priceLongTwap": 0.9428872548913424,
+      "pTwap": 0.4853020948681215
+    },
+    "0x028F7d0BE4d166dF45658e21b388C91c55146739": {
+      "price0Twap": 0.636358660024517,
+      "price1Twap": 1.8267453955906443,
+      "outcomeIndex": 14,
+      "priceShortTwap": 1.8267453955906443,
+      "priceLongTwap": 0.636358660024517,
+      "pTwap": 0.3888870304356031
+    },
+    "0xD78c7020031e29e6A3b0C13Eee2b1054A171459C": {
+      "price0Twap": 0.2755138022727576,
+      "price1Twap": 3.8445266700927734,
+      "outcomeIndex": 11,
+      "priceShortTwap": 3.8445266700927734,
+      "priceLongTwap": 0.2755138022727576,
+      "pTwap": 0.2160022116435251
+    },
+    "0xd2eE390CDb6fd7981B2e7db3c6D643c0fF4330c5": {
+      "price0Twap": 2.4067476939497285,
+      "price1Twap": 0.43451118230905267,
+      "outcomeIndex": 2,
+      "priceShortTwap": 2.4067476939497285,
+      "priceLongTwap": 0.43451118230905267,
+      "pTwap": 0.3028984281667601
+    },
+    "0x9Cba0cfB658397261b4eC85d0e70C03Ab79d3b86": {
+      "price0Twap": 0.4600241662776116,
+      "price1Twap": 2.249915153954754,
+      "outcomeIndex": 10,
+      "priceShortTwap": 2.249915153954754,
+      "priceLongTwap": 0.4600241662776116,
+      "pTwap": 0.3150798301171008
+    },
+    "0x4Bc677a6e6545733a8D11c1463C2b991cEA83fa4": {
+      "price0Twap": 3.8233010010412696,
+      "price1Twap": 0.3014404376842391,
+      "outcomeIndex": 21,
+      "priceShortTwap": 3.8233010010412696,
+      "priceLongTwap": 0.3014404376842391,
+      "pTwap": 0.23162061739883932
+    },
+    "0x9d16947a1924F735EC86CA4C11b3e28cE65b436e": {
+      "price0Twap": 0.7411901132150628,
+      "price1Twap": 1.4631504783302014,
+      "outcomeIndex": 15,
+      "priceShortTwap": 0.7411901132150628,
+      "priceLongTwap": 1.4631504783302014,
+      "pTwap": 0.5940158716255486
+    },
+    "0xa28ab26363d856C6a199Bd623C7e2b621aDAa6F0": {
+      "price0Twap": 0.5976266647842834,
+      "price1Twap": 1.8628984077368786,
+      "outcomeIndex": 4,
+      "priceShortTwap": 1.8628984077368786,
+      "priceLongTwap": 0.5976266647842834,
+      "pTwap": 0.3740715387126922
+    },
+    "0xd338f7C363a78a9402AABA5869790a7914fF98AD": {
+      "price0Twap": 2.8519144054021766,
+      "price1Twap": 0.38830551249790973,
+      "outcomeIndex": 5,
+      "priceShortTwap": 2.8519144054021766,
+      "priceLongTwap": 0.38830551249790973,
+      "pTwap": 0.2796974505987884
+    },
+    "0x392BF28d61424CF90C812BfCc907994697dCc164": {
+      "price0Twap": 3.122893417703386,
+      "price1Twap": 0.3682400189820659,
+      "outcomeIndex": 13,
+      "priceShortTwap": 3.122893417703386,
+      "priceLongTwap": 0.3682400189820659,
+      "pTwap": 0.26913408018574597
+    },
+    "0xD508FBFB3c67DABB10D4981B95EbF2667B773F64": {
+      "price0Twap": 3.0534210955512497,
+      "price1Twap": 0.3380151714576333,
+      "outcomeIndex": 7,
+      "priceShortTwap": 3.0534210955512497,
+      "priceLongTwap": 0.3380151714576333,
+      "pTwap": 0.25262431896747456
+    }
+  }
+}

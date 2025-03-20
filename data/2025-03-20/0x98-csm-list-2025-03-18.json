@@ -1,0 +1,600 @@
+{
+  "data": {
+    "conditionalScalarMarkets": [
+      {
+        "id": "0x21b1bea415e35d954416bc15998989711c726d60",
+        "outcomeIndex": 16,
+        "decisionMarket": {
+          "id": "0x98c82be3039640afa222213bfbe1980b94d15172"
+        },
+        "longToken": {
+          "id": "0x98abae8b9e35700fdf4425bb77bc31511c4e5ade"
+        },
+        "shortToken": {
+          "id": "0x7a6b6f6be2877fc2f3c7c8103960d9830dc962e5"
+        },
+        "invalidToken": {
+          "id": "0xebdd9f9af0de325235ecdd0621b7b9d4cf5dfb91"
+        },
+        "pair": {
+          "id": "0xdef9757241a19a4872810e19d39b43cdb7ffbf97",
+          "token0": {
+            "id": "0x7a6b6f6be2877fc2f3c7c8103960d9830dc962e5"
+          },
+          "token1": {
+            "id": "0x98abae8b9e35700fdf4425bb77bc31511c4e5ade"
+          },
+          "reserve0": "368.417681206788444062",
+          "reserve1": "1031.362918691313087302"
+        }
+      },
+      {
+        "id": "0x225c97810f17817c8a8a9f260f72e9c3a2bc83f5",
+        "outcomeIndex": 8,
+        "decisionMarket": {
+          "id": "0x98c82be3039640afa222213bfbe1980b94d15172"
+        },
+        "longToken": {
+          "id": "0x97d1decfee762a2578af71f68742b983c39b642d"
+        },
+        "shortToken": {
+          "id": "0x1255234211e75d52fad7a86dfc254e533f82e0b2"
+        },
+        "invalidToken": {
+          "id": "0x1b32b5caab937ce5f3d3ad6214c1e25bbcfc52e3"
+        },
+        "pair": {
+          "id": "0x40709da84b9036c6c582a0827dffd9943492d4f3",
+          "token0": {
+            "id": "0x1255234211e75d52fad7a86dfc254e533f82e0b2"
+          },
+          "token1": {
+            "id": "0x97d1decfee762a2578af71f68742b983c39b642d"
+          },
+          "reserve0": "353.146336059790869921",
+          "reserve1": "1070.413430185680894734"
+        }
+      },
+      {
+        "id": "0x32aea00e8d5da9f151a0228273f3142101bc37a2",
+        "outcomeIndex": 18,
+        "decisionMarket": {
+          "id": "0x98c82be3039640afa222213bfbe1980b94d15172"
+        },
+        "longToken": {
+          "id": "0xf39b374f772fdc8dbc667087f0814d6e7e37c0b0"
+        },
+        "shortToken": {
+          "id": "0x5c89eacafe2b62b8cdac9866ace5e20ca6b236ff"
+        },
+        "invalidToken": {
+          "id": "0x3027426193d51921335e9b88495a4a3a051f0d93"
+        },
+        "pair": {
+          "id": "0xda21a4a5a47347b4a7fc4badae5789508ae5aa0f",
+          "token0": {
+            "id": "0x5c89eacafe2b62b8cdac9866ace5e20ca6b236ff"
+          },
+          "token1": {
+            "id": "0xf39b374f772fdc8dbc667087f0814d6e7e37c0b0"
+          },
+          "reserve0": "410.031588915980473871",
+          "reserve1": "923.070841724281609842"
+        }
+      },
+      {
+        "id": "0x3c0cb4a8fec12f39909995f39903aa177be2b5a5",
+        "outcomeIndex": 19,
+        "decisionMarket": {
+          "id": "0x98c82be3039640afa222213bfbe1980b94d15172"
+        },
+        "longToken": {
+          "id": "0x295889bb95647bf6423ce2b1e1c049a07483119e"
+        },
+        "shortToken": {
+          "id": "0x683dc9e42cf13b1f26dd60fe6162b41682aac917"
+        },
+        "invalidToken": {
+          "id": "0x02e537f3095863d69077c828eff7f47663f15f4a"
+        },
+        "pair": {
+          "id": "0x06c85d2a48baca681f6f08a6e7016d365aa16b91",
+          "token0": {
+            "id": "0x295889bb95647bf6423ce2b1e1c049a07483119e"
+          },
+          "token1": {
+            "id": "0x683dc9e42cf13b1f26dd60fe6162b41682aac917"
+          },
+          "reserve0": "630.063248377389747798",
+          "reserve1": "150.381414596009535836"
+        }
+      },
+      {
+        "id": "0x3dc0ad1b4dcfaf2099197893b3f2090ea5943777",
+        "outcomeIndex": 3,
+        "decisionMarket": {
+          "id": "0x98c82be3039640afa222213bfbe1980b94d15172"
+        },
+        "longToken": {
+          "id": "0xfd94d05b94ccb7d8ebe74cc5862cc2126467bfbc"
+        },
+        "shortToken": {
+          "id": "0x5de5c702ff718be82fb2cfd9d6837b980f2703fa"
+        },
+        "invalidToken": {
+          "id": "0x3a02e5ee530fca0a4e9b7a9613d8fac25ccf3b7f"
+        },
+        "pair": {
+          "id": "0x753e55b9e5f30a0874226b47372386d4067a96d4",
+          "token0": {
+            "id": "0x5de5c702ff718be82fb2cfd9d6837b980f2703fa"
+          },
+          "token1": {
+            "id": "0xfd94d05b94ccb7d8ebe74cc5862cc2126467bfbc"
+          },
+          "reserve0": "469.150156252146824171",
+          "reserve1": "821.302529458251237744"
+        }
+      },
+      {
+        "id": "0x3f6b40d8e48a92870b4038066178392775c941e8",
+        "outcomeIndex": 1,
+        "decisionMarket": {
+          "id": "0x98c82be3039640afa222213bfbe1980b94d15172"
+        },
+        "longToken": {
+          "id": "0x4a9750125cd88c9af69a060c0d301154e3efe34d"
+        },
+        "shortToken": {
+          "id": "0x3e0db56014ed6b2603dba58efee2ef1373a3606d"
+        },
+        "invalidToken": {
+          "id": "0xb5619ac574be37ddc77f30ebcb110ebe026029e0"
+        },
+        "pair": {
+          "id": "0xed69fc5b54757cbee0136c516a22e406afd5fa11",
+          "token0": {
+            "id": "0x3e0db56014ed6b2603dba58efee2ef1373a3606d"
+          },
+          "token1": {
+            "id": "0x4a9750125cd88c9af69a060c0d301154e3efe34d"
+          },
+          "reserve0": "757.145874851893772412",
+          "reserve1": "504.048221574531273393"
+        }
+      },
+      {
+        "id": "0x3fda637d8adb636d0f33e398b451dbf9e009abb0",
+        "outcomeIndex": 6,
+        "decisionMarket": {
+          "id": "0x98c82be3039640afa222213bfbe1980b94d15172"
+        },
+        "longToken": {
+          "id": "0x445a767233460071ab2ab9c78d38e084ba4fcb73"
+        },
+        "shortToken": {
+          "id": "0xb087548fa208cc63f52bbf77ab99fb2cccd7a3cc"
+        },
+        "invalidToken": {
+          "id": "0x2f59c2435d7b3b6721e0a31087d0225c9cc6210a"
+        },
+        "pair": {
+          "id": "0x5809976ca619e888201e1943747264a1c89d9c0c",
+          "token0": {
+            "id": "0x445a767233460071ab2ab9c78d38e084ba4fcb73"
+          },
+          "token1": {
+            "id": "0xb087548fa208cc63f52bbf77ab99fb2cccd7a3cc"
+          },
+          "reserve0": "1104.849953587185176686",
+          "reserve1": "341.675528700206842459"
+        }
+      },
+      {
+        "id": "0x41078a67cf35580b31008ff38f6147c9b57f3e45",
+        "outcomeIndex": 12,
+        "decisionMarket": {
+          "id": "0x98c82be3039640afa222213bfbe1980b94d15172"
+        },
+        "longToken": {
+          "id": "0x3388ad3e9f117a8a49eee7d0fdce0dec4820310c"
+        },
+        "shortToken": {
+          "id": "0x5137f6c7db1dc3e3c94b5d492a91724ba1e4c2ec"
+        },
+        "invalidToken": {
+          "id": "0x5b3ae8441a167d4ab6de892d7661aee1bf0d93d8"
+        },
+        "pair": {
+          "id": "0xcb6b543857dabb2308cc9de4d09d5cbceded80c2",
+          "token0": {
+            "id": "0x3388ad3e9f117a8a49eee7d0fdce0dec4820310c"
+          },
+          "token1": {
+            "id": "0x5137f6c7db1dc3e3c94b5d492a91724ba1e4c2ec"
+          },
+          "reserve0": "983.085800734521050353",
+          "reserve1": "385.219492423092176259"
+        }
+      },
+      {
+        "id": "0x5375ce9e702644733eb98ae7403a1a0909a8b14f",
+        "outcomeIndex": 20,
+        "decisionMarket": {
+          "id": "0x98c82be3039640afa222213bfbe1980b94d15172"
+        },
+        "longToken": {
+          "id": "0x345c10fafeb1575f942c51e45898fdbc25a746a0"
+        },
+        "shortToken": {
+          "id": "0xb5208ce70068720765404c53dc70a467e6902131"
+        },
+        "invalidToken": {
+          "id": "0x4b700fbff28db1098ccd6801000a8199608d1ba1"
+        },
+        "pair": {
+          "id": "0x117195d07cecb60ead8e06f8126f68b61599ca86",
+          "token0": {
+            "id": "0x345c10fafeb1575f942c51e45898fdbc25a746a0"
+          },
+          "token1": {
+            "id": "0xb5208ce70068720765404c53dc70a467e6902131"
+          },
+          "reserve0": "1018.045654721747521295",
+          "reserve1": "368.136880725414049969"
+        }
+      },
+      {
+        "id": "0x569b2ca467e29f81fd44c33e2f3a6144f2b51647",
+        "outcomeIndex": 0,
+        "decisionMarket": {
+          "id": "0x98c82be3039640afa222213bfbe1980b94d15172"
+        },
+        "longToken": {
+          "id": "0x7c70662878859a38d3114604ac6297164d971be4"
+        },
+        "shortToken": {
+          "id": "0x42c1b5a7f871593a124fc82063df60d11380ed3f"
+        },
+        "invalidToken": {
+          "id": "0xb92d09934abb2b6a419d9fb909b05d35ec8ad260"
+        },
+        "pair": {
+          "id": "0x7a0986507e4836cf234d42d049682a1d8a57a1f6",
+          "token0": {
+            "id": "0x42c1b5a7f871593a124fc82063df60d11380ed3f"
+          },
+          "token1": {
+            "id": "0x7c70662878859a38d3114604ac6297164d971be4"
+          },
+          "reserve0": "521.864206081196944967",
+          "reserve1": "733.403918553464614081"
+        }
+      },
+      {
+        "id": "0x5d1d56fc32c8638dfa86843ffb4ab42e34233c28",
+        "outcomeIndex": 9,
+        "decisionMarket": {
+          "id": "0x98c82be3039640afa222213bfbe1980b94d15172"
+        },
+        "longToken": {
+          "id": "0xbca9a5f8e92b403d71c36f2d5ecb8d8d253e2281"
+        },
+        "shortToken": {
+          "id": "0xc785060f5ce1197f5286b1f644bce3ce4957b9ec"
+        },
+        "invalidToken": {
+          "id": "0x4f3ecdda0887ae37f7a65be1922f93223feb8efc"
+        },
+        "pair": {
+          "id": "0x0c947b005826d92daf9db000d08c5144ec227004",
+          "token0": {
+            "id": "0xbca9a5f8e92b403d71c36f2d5ecb8d8d253e2281"
+          },
+          "token1": {
+            "id": "0xc785060f5ce1197f5286b1f644bce3ce4957b9ec"
+          },
+          "reserve0": "1208.678039826939143413",
+          "reserve1": "309.195880135441765976"
+        }
+      },
+      {
+        "id": "0x7d244d4a6d3d932146b9fad46c433052489ded3a",
+        "outcomeIndex": 17,
+        "decisionMarket": {
+          "id": "0x98c82be3039640afa222213bfbe1980b94d15172"
+        },
+        "longToken": {
+          "id": "0x21b3f6987ca40554b6409286b5e9fb45147f9ac3"
+        },
+        "shortToken": {
+          "id": "0x918c76cf280be5f4ffaa4eff416e3ccfec405897"
+        },
+        "invalidToken": {
+          "id": "0xba822f13ec0758dddb7bf33e61209aa4a4ae3498"
+        },
+        "pair": {
+          "id": "0x23b04c96c0bb8c223d13c6962c4acf954412e77b",
+          "token0": {
+            "id": "0x21b3f6987ca40554b6409286b5e9fb45147f9ac3"
+          },
+          "token1": {
+            "id": "0x918c76cf280be5f4ffaa4eff416e3ccfec405897"
+          },
+          "reserve0": "461.454852070040772211",
+          "reserve1": "831.587545789932717404"
+        }
+      },
+      {
+        "id": "0x7f863926d80a4f9c52eb1d62071c0dcbfc4e4ae8",
+        "outcomeIndex": 14,
+        "decisionMarket": {
+          "id": "0x98c82be3039640afa222213bfbe1980b94d15172"
+        },
+        "longToken": {
+          "id": "0x511852e397173f3dae6d383511596ae93ba8f8ec"
+        },
+        "shortToken": {
+          "id": "0x87160aca3ecb8a0f71adcc1acc13041b732be2de"
+        },
+        "invalidToken": {
+          "id": "0x040c19d9f6773d7b49693b2e74e40f5f12408f37"
+        },
+        "pair": {
+          "id": "0x028f7d0be4d166df45658e21b388c91c55146739",
+          "token0": {
+            "id": "0x511852e397173f3dae6d383511596ae93ba8f8ec"
+          },
+          "token1": {
+            "id": "0x87160aca3ecb8a0f71adcc1acc13041b732be2de"
+          },
+          "reserve0": "910.215974656285914746",
+          "reserve1": "414.859107439507148038"
+        }
+      },
+      {
+        "id": "0x84b4fc7dc757b15c51088856d4d107fd2e56d10c",
+        "outcomeIndex": 11,
+        "decisionMarket": {
+          "id": "0x98c82be3039640afa222213bfbe1980b94d15172"
+        },
+        "longToken": {
+          "id": "0x42d98f600009132f7a32a8a69e8a357b97be5b78"
+        },
+        "shortToken": {
+          "id": "0xb3c40c6ebaba733e977a063f461980688ebcda25"
+        },
+        "invalidToken": {
+          "id": "0x2e072045084b18b33fd53d44983407fad4652b63"
+        },
+        "pair": {
+          "id": "0xd78c7020031e29e6a3b0c13eee2b1054a171459c",
+          "token0": {
+            "id": "0x42d98f600009132f7a32a8a69e8a357b97be5b78"
+          },
+          "token1": {
+            "id": "0xb3c40c6ebaba733e977a063f461980688ebcda25"
+          },
+          "reserve0": "997.251599842766230509",
+          "reserve1": "374.714052634916045461"
+        }
+      },
+      {
+        "id": "0x9532b0ff4d13a2f7cd8a37159c1a3bac3dd3f934",
+        "outcomeIndex": 2,
+        "decisionMarket": {
+          "id": "0x98c82be3039640afa222213bfbe1980b94d15172"
+        },
+        "longToken": {
+          "id": "0x6fb36cc9fb0d76f478aabbd3fd6be3cea68c969b"
+        },
+        "shortToken": {
+          "id": "0x6300b474168a3989310b08133212fd283ac42e8b"
+        },
+        "invalidToken": {
+          "id": "0x2483b7da42205fe704b32ec6ad8613747e7a8f00"
+        },
+        "pair": {
+          "id": "0xd2ee390cdb6fd7981b2e7db3c6d643c0ff4330c5",
+          "token0": {
+            "id": "0x6300b474168a3989310b08133212fd283ac42e8b"
+          },
+          "token1": {
+            "id": "0x6fb36cc9fb0d76f478aabbd3fd6be3cea68c969b"
+          },
+          "reserve0": "347.408549128371325591",
+          "reserve1": "1087.513702196110159366"
+        }
+      },
+      {
+        "id": "0x9c6df93fbe59c30e677063da6eb10238cf571d38",
+        "outcomeIndex": 10,
+        "decisionMarket": {
+          "id": "0x98c82be3039640afa222213bfbe1980b94d15172"
+        },
+        "longToken": {
+          "id": "0xa110e393bf76d8a60e764715e248e4d56858595c"
+        },
+        "shortToken": {
+          "id": "0xd0863f6e70cb475903e41f933ef62aba2cf7ab50"
+        },
+        "invalidToken": {
+          "id": "0x0d32b2273155b09f9ecb5a01fcc75999a9f207cb"
+        },
+        "pair": {
+          "id": "0x9cba0cfb658397261b4ec85d0e70c03ab79d3b86",
+          "token0": {
+            "id": "0xa110e393bf76d8a60e764715e248e4d56858595c"
+          },
+          "token1": {
+            "id": "0xd0863f6e70cb475903e41f933ef62aba2cf7ab50"
+          },
+          "reserve0": "1194.984280823927610987",
+          "reserve1": "313.389197563715462687"
+        }
+      },
+      {
+        "id": "0xa20eda139820ccba92c33e3fd476aedd1050eacd",
+        "outcomeIndex": 21,
+        "decisionMarket": {
+          "id": "0x98c82be3039640afa222213bfbe1980b94d15172"
+        },
+        "longToken": {
+          "id": "0x5fdd59f5199e2126d7ec445add32cd915b3bab60"
+        },
+        "shortToken": {
+          "id": "0x3134e5f41be7006494ffa852d9ac6ad40569785f"
+        },
+        "invalidToken": {
+          "id": "0xa03cf2339e32f198809edafcc28ae400df34f2d4"
+        },
+        "pair": {
+          "id": "0x4bc677a6e6545733a8d11c1463c2b991cea83fa4",
+          "token0": {
+            "id": "0x3134e5f41be7006494ffa852d9ac6ad40569785f"
+          },
+          "token1": {
+            "id": "0x5fdd59f5199e2126d7ec445add32cd915b3bab60"
+          },
+          "reserve0": "425.485137496337838109",
+          "reserve1": "879.681336255985863138"
+        }
+      },
+      {
+        "id": "0xa7b32b072c9f2f30538448fae8f07d37dda46520",
+        "outcomeIndex": 15,
+        "decisionMarket": {
+          "id": "0x98c82be3039640afa222213bfbe1980b94d15172"
+        },
+        "longToken": {
+          "id": "0x52d8f383c82576b868563f93dcb58a262d5bc804"
+        },
+        "shortToken": {
+          "id": "0x25169c1c14aa8203d39ec1f47d86fd16704bb715"
+        },
+        "invalidToken": {
+          "id": "0xe49223b8fff90b3a58c8a4fe6e46b680f497968f"
+        },
+        "pair": {
+          "id": "0x9d16947a1924f735ec86ca4c11b3e28ce65b436e",
+          "token0": {
+            "id": "0x25169c1c14aa8203d39ec1f47d86fd16704bb715"
+          },
+          "token1": {
+            "id": "0x52d8f383c82576b868563f93dcb58a262d5bc804"
+          },
+          "reserve0": "750.97876553563078244",
+          "reserve1": "504.981609550862072912"
+        }
+      },
+      {
+        "id": "0xc21e054af3e25d67936c670d1b23bee7421e4568",
+        "outcomeIndex": 4,
+        "decisionMarket": {
+          "id": "0x98c82be3039640afa222213bfbe1980b94d15172"
+        },
+        "longToken": {
+          "id": "0x949086f4e01f5cf3a5f25ce3381b50af725a1b5e"
+        },
+        "shortToken": {
+          "id": "0xa17c1eb6514a496e54032ea0305370468e8880d6"
+        },
+        "invalidToken": {
+          "id": "0x27e4bb546be5983e06959d37ae8ae701abd1bf4d"
+        },
+        "pair": {
+          "id": "0xa28ab26363d856c6a199bd623c7e2b621adaa6f0",
+          "token0": {
+            "id": "0x949086f4e01f5cf3a5f25ce3381b50af725a1b5e"
+          },
+          "token1": {
+            "id": "0xa17c1eb6514a496e54032ea0305370468e8880d6"
+          },
+          "reserve0": "885.479142504634966436",
+          "reserve1": "424.595166693543752683"
+        }
+      },
+      {
+        "id": "0xf30104f7aa7c640b0734805fb6312f9869ff96ea",
+        "outcomeIndex": 5,
+        "decisionMarket": {
+          "id": "0x98c82be3039640afa222213bfbe1980b94d15172"
+        },
+        "longToken": {
+          "id": "0xfd624dd814a7861c3f0a3c0a4d3e118226eca048"
+        },
+        "shortToken": {
+          "id": "0xaa5cf1939041b3cc4e0cf0cb00a47b5ca8578fa5"
+        },
+        "invalidToken": {
+          "id": "0x1bc47c9f19174da0288059804712bf0f544f179d"
+        },
+        "pair": {
+          "id": "0xd338f7c363a78a9402aaba5869790a7914ff98ad",
+          "token0": {
+            "id": "0xaa5cf1939041b3cc4e0cf0cb00a47b5ca8578fa5"
+          },
+          "token1": {
+            "id": "0xfd624dd814a7861c3f0a3c0a4d3e118226eca048"
+          },
+          "reserve0": "443.603603426482205866",
+          "reserve1": "848.788513949374389569"
+        }
+      },
+      {
+        "id": "0xf8422fd48c24fe12bbb53e9f1a55a9793ae366fb",
+        "outcomeIndex": 13,
+        "decisionMarket": {
+          "id": "0x98c82be3039640afa222213bfbe1980b94d15172"
+        },
+        "longToken": {
+          "id": "0xa345d907a65157b60ac2d164ed691a1383bd1e6c"
+        },
+        "shortToken": {
+          "id": "0x56c01ad392f3f8f0543bfdaeb00c2fb3586e61dc"
+        },
+        "invalidToken": {
+          "id": "0x1922565fee7ad6c9aad57438255f117a0c4c52b7"
+        },
+        "pair": {
+          "id": "0x392bf28d61424cf90c812bfcc907994697dcc164",
+          "token0": {
+            "id": "0x56c01ad392f3f8f0543bfdaeb00c2fb3586e61dc"
+          },
+          "token1": {
+            "id": "0xa345d907a65157b60ac2d164ed691a1383bd1e6c"
+          },
+          "reserve0": "350.718183115873096743",
+          "reserve1": "1065.821515123588961994"
+        }
+      },
+      {
+        "id": "0xfcf3810ed758df96cbf24354911fe7b1205cd4d2",
+        "outcomeIndex": 7,
+        "decisionMarket": {
+          "id": "0x98c82be3039640afa222213bfbe1980b94d15172"
+        },
+        "longToken": {
+          "id": "0xf4b4db9ed117b4e733aa701d9fb4a92697df5cc2"
+        },
+        "shortToken": {
+          "id": "0xb32f2f124b36003c037677085e43d7e3d4c1e997"
+        },
+        "invalidToken": {
+          "id": "0xfa97c58a3f6d937f223785b5506aadb641f21134"
+        },
+        "pair": {
+          "id": "0xd508fbfb3c67dabb10d4981b95ebf2667b773f64",
+          "token0": {
+            "id": "0xb32f2f124b36003c037677085e43d7e3d4c1e997"
+          },
+          "token1": {
+            "id": "0xf4b4db9ed117b4e733aa701d9fb4a92697df5cc2"
+          },
+          "reserve0": "335.423848388392521434",
+          "reserve1": "1113.96746429237003718"
+        }
+      }
+    ]
+  }
+}
