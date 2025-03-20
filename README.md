@@ -1,10 +1,23 @@
-# howto
+# howto compute TWAPs for Butter's CFMs
+
+## install
+
+```sh
+gh repo clone butterygg/cfm-v1
+cd cfm-v1
+forge soldeer install
+
+cd ..
+gh repo clone butterygg/twap
+```
+
+## howto
 
 ```sh
 export TODAY=$(date +'%Y-%m-%d')
 ```
 
-On the subgraph, get
+On the [cfm-v1-unichain-mainnet](https://thegraph.com/explorer/subgraphs/ApyDeZakPYAEkCu8neFQ9pMaPmAwSLbpZZfBhDW5F18r?view=Query&chain=arbitrum-one) subgraph, get
 
 ```graphql
 {
@@ -24,7 +37,7 @@ Pick the start and end block numbers that correspond to the TWAP period.
 In `cfm-v1`, run
 
 ```sh
-CSM_JSON=csm-list.json END_BLOCK=… START_BLOCK=… forge script script/FetchCumulativePrices.s.sol:FetchCumulativePrices
+CSM_JSON=csm-list.json END_BLOCK=… START_BLOCK=… forge script script/FetchCumulativePrices.s.sol
 ```
 
 Copy the resulting file in this folder's `./data/$TODAY`.
