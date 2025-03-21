@@ -21,6 +21,8 @@ The script outputs a list of all `pTwap` values, enabling Butter’s CFMs to app
 
 ## install
 
+Install the [cfm-v1](https://github.com/butterygg/cfm-v1) smart contracts forge project then the current repository.
+
 ```sh
 gh repo clone butterygg/cfm-v1
 cd cfm-v1
